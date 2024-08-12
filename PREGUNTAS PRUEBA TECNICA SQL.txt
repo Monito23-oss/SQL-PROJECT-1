@@ -1,0 +1,20 @@
+1.	¿Cuál fue el vendedor que más motos vendió en el último año?
+2.	¿Cuál es el precio promedio de las motos vendidas que tienen un motor de menos de 500 cc?
+3.	¿Qué modelo de moto se vendió más durante el último trimestre?
+4.	¿Cuál es el cliente que ha gastado más dinero en mantenimientos durante el último año?
+5.	¿Cuál es la marca de moto con el mayor número de ventas en el mes pasado?
+6.	¿Cuál mecánico realizó más mantenimientos el mes pasado?
+7.	¿Cuántas ventas fueron realizadas por cada vendedor en el último año?
+8.	¿Qué porcentaje de las motos vendidas en el último año fueron de la marca más popular?
+9.	¿Cuál es el ingreso total obtenido de las ventas de motos durante el último año?
+10.	¿Qué tipo de mantenimiento es el más común y cuántas veces se ha realizado?
+11.	¿Cuántas motos se han vendido en cada ciudad (basado en la dirección del cliente)?
+12.	¿Cuál es la especialidad más común entre los mecánicos y cuántos mecánicos hay de ese tipo?
+13.	¿Qué vendedor ha logrado la venta con el precio final más alto?
+14.	¿Cuál es el precio promedio de las motos vendidas en cada categoría de precio (e.g., bajo, medio, alto)?
+15.	¿Qué moto modelo tiene la mayor diferencia de precio entre el precio original y el precio final de venta?
+16.	¿Cuántas motos ha vendido cada vendedor que son de una marca específica (e.g., Marca X)?
+17.	¿Cuántos clientes han comprado más de una moto?
+18.	¿Cuál es el intervalo de tiempo promedio entre la compra de una moto y su primer mantenimiento?
+19.	¿Cuál fue el mes con más ventas de motos en el último año?
+20.	¿Cuántas ventas de motos han sido a clientes que viven fuera de la ciudad principal?

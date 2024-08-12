@@ -1,0 +1,2 @@
+--14.	¿Cuál es el precio promedio de las motos vendidas en cada categoría de precio (e.g., bajo, medio, alto)? --
+-- NO existe en la tabla Motos ninguna columna que contega informacion de categoria -- 
